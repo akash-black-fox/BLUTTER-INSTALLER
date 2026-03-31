@@ -20,7 +20,7 @@ This tool prepares a complete environment for **Flutter reverse engineering** di
 ## 🎥 YouTube Tutorial
 
 <p align="center">
-  <a href="https://youtube.com/your-video-link">
+  <a href="https://youtu.be/fgXT6LfPRlc?si=r_vBBPpGeWJxSo6K">
     <img src="https://img.icons8.com/color/96/youtube-play.png" alt="Watch on YouTube"/>
   </a>
 </p>
