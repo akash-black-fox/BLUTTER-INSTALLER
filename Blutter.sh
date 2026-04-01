@@ -10,8 +10,8 @@ pip install --upgrade pip
 pip install --no-cache-dir requests pyelftools pycryptodome
 
 wget https://github.com/dedshit/blutter-termux/archive/refs/heads/main.zip
-unzip main.zip
-cd blutter-termux-main
+unzip main.zip && cd blutter-termux-main && zip -r main.zip . && mv main.zip $HOME && cd $HOME && unzip main.zip && rm -rf blutter-termux-main && rm main.zip
+cd && clear
 
 RED="\e[31m"
 PINK="\e[95m"
